@@ -2,6 +2,14 @@
 
 Yo, welcome to the project.
 
+Quick overview
+
+- I used the native Drag-and-Drop + Canvas APIs to draw multiple rectangles and 2 images onto a 16/9 responsive canvas.
+- I wrapped the logic in a React component for convenient access to state and to scale the UX.
+- Even though all the code is the same and included here in this repo, I ran into problems porting the logic out of my local environment.
+
+
+
 📽&nbsp;&nbsp;[Loom Video overview](https://www.loom.com/share/3aa99629e00149398ef619f4bca00341)
 
 💻&nbsp;&nbsp;[CodeSandbox](https://codesandbox.io/s/github/likethemammal/streamlabs-project/tree/main/?file=/src/index.tsx)
@@ -30,4 +38,4 @@ Yo, welcome to the project.
     - When the Technical Considerations mentioned not using a "rendering" Canvas library it wasnt clear what the limits on "rendering" were. The example of Fabric.js made it more obvious, but I decided to keep things low-level like the instructions suggested.
 
 4. Do you feel like this assignment has an appropriate level of difficulty?
-    - Yes, but most ppl dont use the Canvas API often.
+    - Yes, but I would say most ppl dont use the Canvas API often.
