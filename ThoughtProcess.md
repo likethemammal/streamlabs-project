@@ -29,12 +29,12 @@
 - Reorged hooks out of main element
 - Added sorting by current image drag to account for z position of image.
 
-### 🪣&nbsp;&nbsp;4. Porting
+### ⛴&nbsp;&nbsp;4. Porting
 
 - Ported code to Codesandbox
 - Ran into bug with dragging in Codesandbox
 - After debugging, the state isnt updating when the mouse events trigger. The events themselves are triggering, but the setState calls arent behaving like they were locally.
 - After several attempts to work around the issue, ported the code to a clean install of `create-next-app`
-- Still running not able to get it working.
+- Still not able to get it working.
 - Tried to see if static export would fix the issue.
 - Realized theres a bug with resizing + drag that has some overlap with this.
