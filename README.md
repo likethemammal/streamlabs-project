@@ -8,8 +8,6 @@ Quick overview
 - I wrapped the logic in a React component and a few hooks for convenient access to state and to scale the UX.
 - Even though all the code is the same and included here in this repo, I ran into problems porting the logic out of my local environment.
 
-
-
 📽&nbsp;&nbsp;[Loom Video overview](https://www.loom.com/share/3aa99629e00149398ef619f4bca00341)
 
 💻&nbsp;&nbsp;[CodeSandbox](https://codesandbox.io/s/github/likethemammal/streamlabs-project/tree/main/?file=/src/index.tsx)
@@ -39,3 +37,17 @@ Quick overview
 
 4. Do you feel like this assignment has an appropriate level of difficulty?
     - Yes, but I would say most ppl dont use the Canvas API often.
+
+
+### Install
+
+To run this repo
+
+```sh
+
+npm install;
+npm run dev;
+
+```
+
+
