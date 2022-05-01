@@ -46,7 +46,7 @@ To run this repo
 ```sh
 
 npm install;
-npm run dev;
+npm run start;
 
 ```
 
