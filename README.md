@@ -5,7 +5,7 @@ Yo, welcome to the project.
 Quick overview
 
 - I used the native Drag-and-Drop + Canvas APIs to draw multiple rectangles and 2 images onto a 16/9 responsive canvas.
-- I wrapped the logic in a React component for convenient access to state and to scale the UX.
+- I wrapped the logic in a React component and a few hooks for convenient access to state and to scale the UX.
 - Even though all the code is the same and included here in this repo, I ran into problems porting the logic out of my local environment.
 
 
