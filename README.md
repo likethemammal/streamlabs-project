@@ -8,11 +8,20 @@ Yo, welcome to the project.
 
 🤔&nbsp;&nbsp;My [Thought Process](ThoughtProcess.md) as I went along.
 
+### Timeline
+
+- About 10 mins reading and taking notes on the problem
+- About 10 mins researching
+- About 30 mins thinking about the problem
+- About 2 hours coding a solution in Vanilla JS + partial React.
+- About 45 mins moving it to React state management
+- About 45 mins refactoring and polishing
+- 4+ hours debugging environment issues, trying to figure out how to reproduce in a sharable context
 
 ### Question Answers
 
 1. How long did it take you to complete this assignment?
-    - 4 hours to implement, 4+ hours debugging
+    - ~4 hours to implement, 4+ hours debugging
 
 2. What about this assignment did you find most challenging?
     - Dealing with some of the bugs that come with a responsive canvas + drag and drop + device pixel ratio.
